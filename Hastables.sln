@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastables", "Hastables.csproj", "{52671F4D-B236-4AA3-B762-1F0DDF2AB6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52671F4D-B236-4AA3-B762-1F0DDF2AB6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52671F4D-B236-4AA3-B762-1F0DDF2AB6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52671F4D-B236-4AA3-B762-1F0DDF2AB6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52671F4D-B236-4AA3-B762-1F0DDF2AB6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0701CD-2DCD-4409-852F-90986111718C}
+	EndGlobalSection
+EndGlobal
